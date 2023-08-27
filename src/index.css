@@ -6,3 +6,24 @@
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
     sans-serif;
 }
+
+body {
+  background-color: antiquewhite;
+}
+
+h4 {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.buttons {
+  display: flex;
+  justify-content: center;
+  gap: 1rem
+}
+
+button {
+  color: #FFF;
+  background-color: blue;
+  padding: .4rem;
+}
