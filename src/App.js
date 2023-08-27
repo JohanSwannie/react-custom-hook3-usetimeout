@@ -1,5 +1,11 @@
+import TimeoutComponent from "./TimeoutComponent";
+
 const App = () => {
-  return <div>Hallo</div>;
+  return (
+    <>
+      <TimeoutComponent />
+    </>
+  );
 };
 
 export default App;
